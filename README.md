@@ -3,7 +3,7 @@
 
 致敬————[@xtyxtyx](https://github.com/xtyxtyx/sorry/blob/master/README.md)
 
-最近折腾点wordpress，简单学习了php，同为虎扑jr，看到众jr各显神通写了python版本、java版本、安卓版本等，就顺手撸了个php版本，挂自己小服务器上。水平拙劣，欢迎批评指正~
+最近折腾点wordpress，简单学习了php，同为虎扑jr，看到众jr各显神通写了python版本、java版本、安卓版本等，就顺手撸了个php版本，挂自己小服务器上（最近在备案）。水平拙劣，欢迎批评指正~
 
 ## 组织结构
 
